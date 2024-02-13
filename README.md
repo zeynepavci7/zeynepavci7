@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I am Zeynep. I am student at Bilkent University. 😃
+I am Zeynep and I am from Turkey. Currently I am a student at Bilkent University. 😃
 
 <!--
 **zeynepavci7/zeynepavci7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
